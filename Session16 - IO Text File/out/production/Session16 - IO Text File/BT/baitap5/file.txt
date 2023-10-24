@@ -1,0 +1,1 @@
+nếu lớn hơn length lớn nhất thì đổi list thànhh list mới và gán lại
